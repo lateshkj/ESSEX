@@ -1,4 +1,4 @@
-# Machine-Learning-approach-for-Malware-Detection
+# ML Based Python Code for File-Malware-Detection
 A Machine Learning approach for classifying a file as Malicious or Legitimate.
 
 This approach tries out 6 different classification algorithms before deciding which one to use for prediction by comparing their results.
